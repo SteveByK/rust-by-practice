@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/zh-CN/assets/mini-redis/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/zh-CN/assets/mini-redis/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/zh-CN/assets/mini-redis/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/practices/hello-package/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/practices/hello-package/target" />
       <excludeFolder url="file://$MODULE_DIR$/zh-CN/assets/mini-redis/target" />
     </content>
     <orderEntry type="inheritedJdk" />
